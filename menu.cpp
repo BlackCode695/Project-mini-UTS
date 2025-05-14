@@ -120,7 +120,7 @@ void sortingData(){
 
 void Sepatah_Kata(){
     system("cls");
-    cout << "Bismillah Kita Berhasil Membuat Program Sorting!" << endl;
+    cout << "Bismillah Nilai Aman" << endl;
     cout << "Tekan apa saja untuk kembali ke menu...";
     getch();
 }
